@@ -28,4 +28,8 @@ A numbered list:
  Make a horizontal rule
 ***
 
+---
+HR
+---
+
 Embed a link with [square brackets](https://daringfireball.net/projects/markdown/syntax)
